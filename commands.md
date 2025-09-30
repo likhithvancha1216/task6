@@ -2,7 +2,6 @@
 
 **Author:** Likhith Bharadwaj Reddy  
 **Date:** 30-09-2025  
-
 ---
 
 ## Approach  
