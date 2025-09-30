@@ -29,10 +29,10 @@ Generate multiple passwords with increasing complexity, test them using online t
 ## Visualizations  
 
 ### Chart 1
-![Password Strength Comparison 1](Password_Strength_Comparison_1.png)
+![Password Strength Comparison 1](Password%20Strength%20Comparison%20Chart%20(1).png)
 
 ### Chart 2
-![Password Strength Comparison 2](Password_Strength_Comparison_2.png)
+![Password Strength Comparison 2](Password%20Strength%20Comparison%20Chart.png)
 
 ---
 
@@ -57,7 +57,7 @@ Generate multiple passwords with increasing complexity, test them using online t
 ## Best Practices & Recommendations  
 
 - Use at least **12–16 characters**, ideally a passphrase.  
-- Mix uppercase, lowercase, numbers, and symbols.  
-- Avoid dictionary words or predictable substitutions like `Password → P@ssw0rd`.  
+- Mix uppercase, lowercase, numbers, and special characters.  
+- Avoid dictionary words and predictable substitutions like `Password → P@ssw0rd`.  
 - Use **Multi-Factor Authentication (MFA)** for critical accounts.  
 - Store unique passwords safely in a **password manager**.
